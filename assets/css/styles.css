@@ -861,6 +861,7 @@ img {
 
 /* =========================== CONTACT ME =========================== */
 .contact__container {
+    align-content: center;
     row-gap: 3rem;
 }
 
